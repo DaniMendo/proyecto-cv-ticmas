@@ -1,0 +1,66 @@
+
+body {
+    background-color: #D6DBDF;
+}
+div {
+    background-color: #0715B9  ;
+    margin: 5%;
+    padding: 5%;
+}
+h1 {
+    text-align: center;
+    width: 75%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vh;
+    color: white;
+}
+
+h2, h3, li, p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+img {
+    height: 150px;
+    width: 150px;
+}
+.alinear h1, img {
+    display: inline-block;
+}
+.info {
+    width:60%;
+    padding: 0 20px 0 20px;
+    margin: 0 10% 0 10%;
+}
+.item p {
+    display: inline-block;
+}
+.dato {
+    text-align: left;
+    width: 60%;
+}
+.resp {
+    text-align: right;
+    width: 40%;
+}
+#myOL{
+    display: none;
+}
+footer {
+    text-align: right;
+    font-size: small;
+    font-family: cursive;
+    color: #AEB6BF
+}
+.myPer {
+    padding: 0 20px 0 20px;
+    margin:  5%;
+}
+hr {
+    background-color:#507AE6 ;
+    margin: 0 10% 0 10%;
+}
+.botones {
+    width:100%;
+    padding: 0 20px 0 20px;
+    margin: 0 10% 0 10%;
+}
